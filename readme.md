@@ -35,5 +35,5 @@
 
 10- Pomodoro de boostrap basado en https://pomofocus.io/
 
-11-
+11- Ejercicio de panaderia. Dado el modelo bootstrap-ejercicio.jpg realizar el layout.
 
